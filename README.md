@@ -1,5 +1,5 @@
 # NoteApp
-An note app built in HTML/CSS/Javascript
+A note app built in HTML/CSS/Javascript
 
 ![Layout](https://i.ibb.co/5r2RFvr/Screenshot-2023-06-28-1-14-18-AM.png)
 
